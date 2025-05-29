@@ -44,6 +44,9 @@
             Hide Sidebar
           </button>
         </div>
+        <button class="close-sidebar-mobile" style="display: none;">
+          <span class="close-icon">×</span>
+        </button>
       </div>
     </nav>
     <!-- Show Sidebar Button (Outside Sidebar) -->
@@ -109,6 +112,12 @@
           <option value="todo">To Do</option>
           <option value="doing">Doing</option>
           <option value="done">Done</option>
+        </select>
+        <label for="task-priority">Priority</label>
+        <select id="task-priority">
+          <option value="High">High</option>
+          <option value="Medium" selected>Medium</option>
+          <option value="Low">Low</option>
         </select>
         <div class="modal-buttons">
           <button id="save-changes">Create Task</button>
