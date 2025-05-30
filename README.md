@@ -94,3 +94,9 @@ A fully functional Kanban app that:
 - Has a responsive, mobile-friendly sidebar with a theme toggle switch.
 - App deployed to **Netlify** with a custom, readable URL.
 - Uses modular, well-documented code that is easy to maintain and scale.
+## Presentation
+- [Recorded Presentation](https://www.veed.io/view/6e99dbbb-5e55-4109-b2ea-e2b20bdf1caa?panel=share)
+- [Deployed App](https://dazzling-frangollo-6f59ad.netlify.app/)
+
+## Project Overview
+This is a Kanban Task Management app built with HTML, CSS, and JavaScript, featuring task creation, editing, priority settings, theme toggling, and API integration.
